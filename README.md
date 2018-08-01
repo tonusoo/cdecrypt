@@ -1,5 +1,5 @@
 ## cdecrypt
-[Cisco type 7](http://www.cisco.com/c/en/us/support/docs/security-vpn/remote-authentication-dial-user-service-radius/107614-64.html) password decrypter as a Bash function based on [Perl implementation](http://mccltd.net/blog/?p=1034). Requires Bash version 3.1 or newer.
+[Cisco type 7](http://www.cisco.com/c/en/us/support/docs/security-vpn/remote-authentication-dial-user-service-radius/107614-64.html) password decrypter as a Bash function based on [Perl implementation](http://darenmatthews.com/blog/?p=1034). Requires Bash version 3.1 or newer.
 
 ### Examples
 
